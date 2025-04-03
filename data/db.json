@@ -1,0 +1,49 @@
+{
+  "name": "นายภูสิทธิ เพียรชอบ",
+  "studentId": "6630200519",
+  "major": "วิทยาการคอมพิวเตอร์",
+  "academicPerformance": [
+    {
+      "courseCode": "01418211",
+      "courseName": "Software Construction",
+      "credits": 3,
+      "grade": "A",
+      "id": "e7c1"
+    },
+    {
+      "courseCode": "01418223",
+      "courseName": "Data Science and Application Programs",
+      "credits": 3,
+      "grade": "A",
+      "id": "e360"
+    },
+    {
+      "courseCode": "01418231",
+      "courseName": "Data Structures and Algorithms",
+      "credits": 3,
+      "grade": "A",
+      "id": "0991"
+    },
+    {
+      "courseCode": "01418233",
+      "courseName": "Computer Architecture",
+      "credits": 3,
+      "grade": "A",
+      "id": "03c9"
+    },
+    {
+      "id": "3d03",
+      "courseCode": "01999012",
+      "courseName": "Health for Life",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "id": "2a22",
+      "courseCode": "01174231",
+      "courseName": "\tIntroduction to Recreation",
+      "credits": 2,
+      "grade": "B+"
+    }
+  ]
+}
